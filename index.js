@@ -78,10 +78,3 @@ function init() {
 
 // Function call to initialize app
 init();
-
-
-
-
-//fs.writeFile('index.html', htmlPageContent, (err) =>
-//  err ? console.log(err) : console.log('Successfully created index.html!')
-//);
